@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F72585&size=30&lines=Full-Stack+Developer;React+%7C+Laravel+%7C+JavaScript;Cyberpunk+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
+  <br/>
   <img src="https://img.shields.io/badge/CYBERPUNK-2077-%23F72585?style=for-the-badge&logo=cyberpunk2077&logoColor=black" alt="Cyberpunk" />
 </div>
 
