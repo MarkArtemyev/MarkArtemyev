@@ -1,74 +1,76 @@
-# 🦾 Welcome to My Cyberpunk GitHub Profile! 🦿
+# ⚡️ WELCOME TO MY NEON CYBER SANCTUARY ⚡️
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F72585&size=30&lines=Full-Stack+Developer;React+%7C+Laravel+%7C+JavaScript;Cyberpunk+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
-  <br/>
-  <img src="https://img.shields.io/badge/CYBERPUNK-2077-%23F72585?style=for-the-badge&logo=cyberpunk2077&logoColor=black" alt="Cyberpunk" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&width=1000&lines=THE+FUTURE+IS+NOW;FULL-STACK+WEB+DEVELOPER;REACT+%7C+LARAVEL+%7C+JAVASCRIPT;WELCOME+TO+MY+WORLD" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/🔥_Exploding_Your_Mind🔥_-black?style=for-the-badge&logo=data:image/png;base64" />
 </div>
 
 ---
 
 ## 🌌 About Me:
-Hi there! I am a passionate and experienced **Full-Stack Web Developer** specializing in crafting futuristic and user-centric web applications. My expertise spans across **React**, **Laravel**, and **JavaScript**, always aiming to push the boundaries of the digital realm.
+### "Born to Code, Built to Create."
+I am **The Architect**, a **Full-Stack Developer** with a fiery passion for futuristic technology. From crafting sleek front-ends with **React** to engineering robust back-ends with **Laravel**, my goal is to push the boundaries of what’s possible.
 
 ---
 
-## 🚀 What I Do:
-- **Front-End Development:** Crafting interactive UIs with technologies like **React** to deliver smooth user experiences.
-- **Back-End Development:** Building powerful server-side systems using **Laravel** with a focus on performance and scalability.
-- **Full-Stack Mastery:** Ensuring seamless communication between front-end and back-end for optimal performance.
-- **Creative Problem-Solving:** Love solving intricate challenges and finding innovative ways to enhance digital products.
-
----
+## 🚀 MY WEAPONS OF CHOICE:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
 
-## 🛠️ Skills and Technologies:
+## 🧠 LEVEL-UP STATS:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </div>
 
 ---
 
-## 🧠 GitHub Stats:
+## ⚡️ LIVE STREAKS:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast" alt="Streak Stats" />
 </div>
 
 ---
 
-## 🏆 Achievements:
+## 🔥 ACTIVITY HEATMAP:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula" alt="GitHub Trophies" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=rogue" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🎮 Fun Fact:
+## 🏆 HALL OF FAME:
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&margin-w=15" />
 </div>
 
 ---
 
-## 👁️ Visitor Count:
+## 🎮 GEEK'S PARADISE:
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+  <img src="https://img.shields.io/badge/-%E2%98%85%20ACHIEVEMENT%20UNLOCKED%20%E2%98%85-black?style=for-the-badge&logo=steam" />
+</div>
+
+---
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitor Count" />
@@ -76,16 +78,7 @@ Hi there! I am a passionate and experienced **Full-Stack Web Developer** special
 
 ---
 
-## 📈 Activity Graph:
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" alt="Activity Graph" />
-</div>
+### 🔮 "YOUR LIMITS ARE ONLY ILLUSIONS."
 
 ---
 
-> "The future is already here — it's just not very evenly distributed." — William Gibson
-
-<div align="center">
-  <img src="https://img.shields.io/badge/FUTURE-IS%20NOW-0D1117?style=for-the-badge&logo=matrix&logoColor=white" alt="Future" />
-</div>
