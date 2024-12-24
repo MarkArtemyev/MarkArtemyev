@@ -4,16 +4,31 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F72585&size=30&lines=Full-Stack+Developer;React+%7C+Laravel+%7C+JavaScript;Cyberpunk+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/CYBERPUNK-2077-%23F72585?style=for-the-badge&logo=cyberpunk2077&logoColor=black" alt="Cyberpunk" />
 </div>
 
 ---
 
 ## 🌌 About Me:
-Greetings, netrunner! I'm a **Full-Stack Web Developer** with a passion for crafting futuristic and user-centric web applications. My expertise spans across **React**, **Laravel**, and **JavaScript**, always aiming to push the boundaries of the digital realm.
+Hi there! I am a passionate and experienced **Full-Stack Web Developer** specializing in crafting futuristic and user-centric web applications. My expertise spans across **React**, **Laravel**, and **JavaScript**, always aiming to push the boundaries of the digital realm.
 
 ---
 
-## 🚀 Skills and Technologies:
+## 🚀 What I Do:
+- **Front-End Development:** Crafting interactive UIs with technologies like **React** to deliver smooth user experiences.
+- **Back-End Development:** Building powerful server-side systems using **Laravel** with a focus on performance and scalability.
+- **Full-Stack Mastery:** Ensuring seamless communication between front-end and back-end for optimal performance.
+- **Creative Problem-Solving:** Love solving intricate challenges and finding innovative ways to enhance digital products.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
+</div>
+
+---
+
+## 🛠️ Skills and Technologies:
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -46,13 +61,17 @@ Greetings, netrunner! I'm a **Full-Stack Web Developer** with a passion for craf
 
 ## 🎮 Fun Fact:
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
 
 ---
 
 ## 👁️ Visitor Count:
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitor Count" />
+</div>
 
 ---
 
@@ -64,10 +83,8 @@ Greetings, netrunner! I'm a **Full-Stack Web Developer** with a passion for craf
 
 ---
 
-## 🤝 Let's Collaborate:
-
-I'm always on the lookout for exciting projects and collaborations. Feel free to reach out, and let's create something extraordinary in this digital frontier!
-
----
-
 > "The future is already here — it's just not very evenly distributed." — William Gibson
+
+<div align="center">
+  <img src="https://img.shields.io/badge/FUTURE-IS%20NOW-0D1117?style=for-the-badge&logo=matrix&logoColor=white" alt="Future" />
+</div>
