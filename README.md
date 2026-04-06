@@ -1,84 +1,57 @@
-<div align="center">
+<h1 align="center">
+  <br>
+  <code>&lt; HELLO, WORLD! /&gt;</code>
+  <br>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&reversal=true&color=0:050913,40:1d1220,75:6b3629,100:a24b69&text=✦%20☾%20✦%20⟡%20✦%20☾%20✦&fontSize=38&fontColor=f0ded2&animation=twinkling" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1600&pause=350&color=F0DED2&center=true&vCenter=true&repeat=true&width=1000&height=64&lines=Привет,+я+Разработчик+◢◤◢◤;▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;✦%20%20%20☾%20%20%20✦%20%20%20☄%20%20%20✦%20%20%20☾%20%20%20✦;Создаю+красивый+и+чистый+код" width="100%" />
-
-<table width="100%">
-  <tr>
-    <td width="33.33%">
-      <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:050913,55:24131b,100:6d3629&text=☾&fontSize=92&fontColor=f0ded2&animation=fadeIn" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:050913,55:261524,100:8a4861&text=✦&fontSize=96&fontColor=f0ded2&animation=twinkling" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:050913,55:171126,100:5c4bb1&text=⚡&fontSize=92&fontColor=f0ded2&animation=blink" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center"> 🌌 Обо мне </h3>
 <p align="center">
-  Я разработчик, увлекающийся созданием интересных проектов.<br>
-  Люблю космос, красивый дизайн и оптимизацию кода.<br>
-  🌱 Сейчас изучаю: <b>[Твои технологии]</b><br>
-  📫 Как со мной связаться: <b>[Твой Telegram / Email]</b>
+  <i><b>Крутой Разработчик | Техно-энтузиаст | Создатель кода</b></i>
+</p>
+
+<p align="center">
+  ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━
+</p>
+
+### 💻 Мой арсенал
+
+> Здесь собраны технологии, с которыми я работаю каждый день. Никакой воды, только хардкор.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:050913,60:2a161f,100:a24b69&text=░░░▒▒▒▓▓▓████▓▓▓▒▒▒░░░&fontSize=22&fontColor=f0ded2" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:050913,60:1b1220,100:6d3629&text=✦%20☾%20✦%20☾%20✦%20☾%20✦&fontSize=24&fontColor=f0ded2" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+</p>
 
-<pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⠟⠋⠙⢿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⠃⠀⠀⠀⠀⠹⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢹⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣦⣀⠀⠀⣀⣴⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀
-⠀⠀⠀✦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣷⡀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⠋⠙⣿⡄⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡏⠀⠀⢹⣿⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣧⣀⣀⣼⡿⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠛⠋⠀⠀⠀
-</pre>
+### 🛠 Проекты
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=280&color=CFAE9F&center=true&vCenter=true&repeat=true&width=1000&height=58&lines=My+GitHub+Contributions;◤◢◤◢◤◢◤◢◤◢◤◢◤◢;▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;☄%20%20%20✦%20%20%20☾%20%20%20✦%20%20%20☄" width="100%" />
+| Статус | Название | Описание | Стек |
+| :---: | :--- | :--- | :--- |
+| 🟢 | **[Project Alpha](#)** | Крутой API для обработки данных в реальном времени. | `Python`, `FastAPI` |
+| 🟡 | **[Project Beta](#)** | Веб-интерфейс для управления умным домом. | `React`, `Redux` |
+| 🔴 | **[Project Gamma](#)** | Скрипт автоматизации деплоя (в разработке). | `Bash`, `Docker` |
 
-<img src="https://raw.githubusercontent.com/sailorgreedy/sailorgreedy/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<br>
 
-<br><br>
+<p align="center">
+  ◈ ━━━━━━ ⸙ ━━━━━━ ◈
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="33.33%">
-      <img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:050913,50:24131b,100:7b402e&text=☄&fontSize=88&fontColor=f0ded2&animation=fadeIn" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:050913,50:211321,100:8f4b68&text=◢◤&fontSize=82&fontColor=f0ded2&animation=blink" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:050913,50:171126,100:6a57cb&text=⟡&fontSize=88&fontColor=f0ded2&animation=twinkling" width="100%" />
-    </td>
-  </tr>
-</table>
+### ⚡ Статистика GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050913,40:1d1220,75:6b3629,100:a24b69" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <br>
+  <code>git commit -m "Ушел пить кофе"</code>
+</p>
